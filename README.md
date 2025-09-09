@@ -4,8 +4,9 @@
 1. Copy `https://github.com/lavarinimoreira/omarchy-vice-city-theme`
 2. Click `SUPER + ALT + SPACE`
 3. Click `Install`
-4. Click `Theme`
-5. Paste the link
+4. Click `Style`
+5. Click `Theme`
+6. Paste the link and hit enter to submit
 
 ### 2nd way to install
 ```bash
