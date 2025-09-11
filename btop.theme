@@ -2,11 +2,10 @@
 theme[main_bg]="#0a0a14"
 
 # Main text color
-theme[main_fg]="#00ffff"
+theme[main_fg]="#f793d9"
 
 # Title color for boxes
-/* theme[title]="#00ffff" */
-theme[title]="#f793d9"
+theme[title]="#00ffff"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#ffff00"
@@ -15,7 +14,7 @@ theme[hi_fg]="#ffff00"
 theme[selected_bg]="#1a0f2e"
 
 # Foreground color of selected items
-theme[selected_fg]="#f793d9"
+theme[selected_fg]="#00ffff"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#4a3d5a"
@@ -24,16 +23,16 @@ theme[inactive_fg]="#4a3d5a"
 theme[graph_text]="#ffffff"
 
 # Misc colors for processes box
-theme[proc_misc]="#f793d9"
+theme[proc_misc]="#00ffff"
 
 # Cpu box outline color
-theme[cpu_box]="#00ffff"
+theme[cpu_box]="#f793d9"
 
 # Memory/disks box outline color
 theme[mem_box]="#f793d9"
 
 # Net up/down box outline color
-theme[net_box]="#00ffff"
+theme[net_box]="#f793d9"
 
 # Processes box outline color
 theme[proc_box]="#f793d9"
@@ -67,8 +66,8 @@ theme[available_mid]="#7df9ff"
 theme[available_end]="#52b2ff"
 
 # Mem/Disk used meter
-theme[used_start]="#ff004d"
-theme[used_mid]="#ff1070"
+theme[used_start]="#00ffff"
+theme[used_mid]="#00ffff"
 theme[used_end]="#f793d9"
 
 # Download graph colors
